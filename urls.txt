@@ -1,0 +1,15 @@
+get ticker list from NASDAQ
+https://www.nasdaq.com/screening/companies-by-industry.aspx?sortname=marketcap&sorttype=1&exchange=NASDAQ
+
+
+metrics for reference
+on balance volume
+http://www.fmlabs.com/reference/default.htm?url=OBV.htm
+accumulation distr line
+http://www.fmlabs.com/reference/default.htm?url=AccumDist.htm
+relative strength
+http://www.fmlabs.com/reference/default.htm?url=RSI.htm
+moving average convergence
+http://www.fmlabs.com/reference/default.htm?url=MACD.htm
+commodity channel index
+http://www.fmlabs.com/reference/default.htm?url=CCI.htm
